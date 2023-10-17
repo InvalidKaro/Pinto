@@ -1,1 +1,1 @@
-0
+{"success":true,"data":{"post_lists":"<div class=\"betterdocs-search-result-wrap\">\n    <ul class=\"docs-search-result\">\n        <li>Sorry, no docs were found.<\/li>    <\/ul>\n<\/div>\n"}}
